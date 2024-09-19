@@ -62,7 +62,7 @@ export default function LoginPage() {
 
             <div className=" items-center justify-center relative  bg-cover bg-center bg-[url('/images/image1.png')]">
                 <div
-                    className="bg-black h-full bg-opacity-60 p-10 rounded-lg text-white max-w-md flex flex-col gap-6 justify-end bg-[url('/images/image1.png')]">
+                    className="bg-black h-full bg-opacity-60 p-10  text-white max-w-md flex flex-col gap-6 justify-end bg-[url('/images/image1.png')]">
                     <p className="text-2xl text-white text-[20px] font-bold ">Digital Fortress has been a game-changer
                         for our content
                         creation process.</p>
